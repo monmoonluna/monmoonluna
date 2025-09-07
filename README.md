@@ -9,5 +9,4 @@
 - 🚀 Projects I've worked on:  
   - **C++:** Staff Management System  
   - **C# + SQL Server:** Coffee Shop Management System  
-  - **React + C#:** Web Streaming Platform  
-- 📫 Reach me at: [LinkedIn](www.linkedin.com/in/huỳnh-thuý-minh-nguyệt)
+  - **React + C#:** Web Streaming Platform 
