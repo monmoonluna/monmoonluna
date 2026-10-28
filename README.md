@@ -28,7 +28,7 @@ I'm a final-year Information Technology student at the University of Science and
 
 ### 📫 Connect with Me
 
-- 💼 LinkedIn: [Huynh Thuy Minh Nguyet](www.linkedin.com/in/huỳnh-thuý-minh-nguyệt)
+- 💼 LinkedIn: [Huynh Thuy Minh Nguyet](https://www.linkedin.com/in/huỳnh-thuý-minh-nguyệt)
 - 🐙 GitHub: [@monmoonluna](https://github.com/monmoonluna)
 
 ---
